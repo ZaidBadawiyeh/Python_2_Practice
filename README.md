@@ -1,12 +1,12 @@
 # Python Discovery Practice and Examples
 
------------------------------------------------------------------------------------------------------------------------------------------------
-This Repository stores much of my work from a "Python 2" course during my time at the University at Colorado Boulder. This class was the second
+
+_This Repository stores much of my work from a "Python 2" course during my time at the University at Colorado Boulder. This class was the second
 iteration in a 3-course curriculum and served to build on the basic loops, data types, and functions learned during the first iteration.
 The majority of executable files here were done in Jupyter Notebooks through the Anaconda IDE, with a smaller number of them completed with the
 use of Google Colab. This work is being posted as an example of the exposure I have had to various aspects of Python and is meant to showcase
-a small amount of my applicable training with data manipulation
------------------------------------------------------------------------------------------------------------------------------------------------
+a small amount of my applicable training with data manipulation_
+
 
 
 The files contained within this repository include four data sources, two of the .txt variety and two of .csv, that were used to complete various
