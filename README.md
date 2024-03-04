@@ -22,5 +22,5 @@ Features
 * Comprehensive Toolset: The course curriculum incorporated a range of tools and techniques to manipulate and analyze data, providing actionable insights from large datasets. The files within this repository serve as a foundation for my proficiency in data analytics and manipulation.
 * Real-world Applications: Many of the tools and techniques learned in this course have been applied to personal projects stored within my GitHub repository. The practical skills acquired here have contributed significantly to my success as a programmer, particularly in the realm of data analytics.
 
-Conclusion
+
 This repository represents my journey through the Python 2 course at the University of Colorado Boulder and showcases my proficiency in Python programming and data manipulation. From analyzing Beatles lyrics to delving into sports data and Rolling Stones albums, I've demonstrated my ability to apply Python tools and techniques to diverse datasets. Feel free to explore my work and reach out with any feedback or inquiries!
